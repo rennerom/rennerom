@@ -14,6 +14,7 @@ Other hobbies
 - Woodworking
 
 # Languages
+My current work requires lots of VBA. Not the most useful language for version control or data science in general. This has led me to more activitly seek out other projects to work on and document. However, I am now very adept at making Excel do anything I want.
 
 <table>
 <tr>
