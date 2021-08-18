@@ -94,8 +94,8 @@ My current work requires lots of VBA. Not the most useful language for version c
 <br>
 
 # Github Stats
-![Max GitHub stats](https://github-readme-stats.vercel.app/api?username=rennerom&show_icons=true)
-![Max GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rennerom&hide=html&hide_border=true)
+![Max GitHub stats1](https://github-readme-stats.vercel.app/api?username=rennerom)
+![Max GitHub stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=rennerom)
 
 
 
