@@ -26,8 +26,6 @@ My current work requires lots of VBA. Not the most useful language for version c
         <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=badge&logo=gnu-bash&logoColor=white"></img>
         <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=badge&logo=r&logoColor=white"></img>
         <img src="https://img.shields.io/badge/python-%2314354C.svg?style=badge&logo=python&logoColor=white"></img>
-        <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=badge&logo=markdown&logoColor=white"></img>
-        <img src="https://img.shields.io/badge/json-5E5C5C?style=badge&logo=json&logoColor=white"></img>
     </td>
 </tr>
 <tr></tr>
