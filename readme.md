@@ -84,16 +84,19 @@ My current work requires lots of VBA. Not the most useful language for version c
 <br>
 
 # Projects
+[![GitTemplates](https://img.shields.io/badge/PowerShell-191970?style=for-the-badge&logo=powershell&labelColor=white&label=GitTemplates)](https://github.com/rennerom/GitTemplates)<p> <p>
 [![Shiny Covid Project](https://img.shields.io/badge/Shiny-blue?style=for-the-badge&logo=RSTUDIO&labelColor=white&label=Covid-19-Minnesota-Counties)](https://github.com/rennerom/COVID-19-Minnesota-Counties)
+
 
 <br>
 
 # Get in touch
-<p float="left">
+Max Renner: rennerom@gmail.com
+<!--<p float="left">
   <a href="mailto:rennerom@gmail.com"><img src="https://img.shields.io/badge/-rennerom@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white&label=gmail" (mailto:rennerom@gmail.com) /></a>
   <a href = "https://www.instagram.com/ottomaxrenner/"> <img src="https://img.shields.io/badge/-@ottomaxrenner-E4405F?style=flat&logo=Instagram&logoColor=white&label=instagram" /></a>
   <a href = "https://maxrenner.bandcamp.com/"> <img src="https://img.shields.io/badge/Max%20Renner-348294?style=flat&logo=bandcamp&logoColor=white&label=bandcamp" /></a>
-</p>
+</p>-->
 <br>
 
 ---
